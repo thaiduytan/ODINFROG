@@ -1,6 +1,7 @@
 "use client"
 
 import {
+  AspectRatio,
   Box,
   Flex,
   Group,
@@ -332,13 +333,15 @@ export const Content: React.FC = () => {
                   component={Link}
                   href="/"
                   pos="absolute"
-                  left={"31%"}
-                  top={"86%"}
+                  top="86%"
+                  left="31%"
+				  w="25%"
+				  h="42%"
                 >
                   <Image
                     src="/buydinnow.png"
-                    w={{ base: 93, xs: 170, sm: 123, md: 177 }}
-                    h={{ base: 58, xs: 105, sm: 75, md: 107 }}
+                    maw="100%"
+                    mah="100%"
                     fit="fill"
                   />
                 </Box>

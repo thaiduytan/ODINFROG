@@ -1,0 +1,20 @@
+@import "@mantine/core/styles.css";
+@import "@mantine/notifications/styles.css";
+
+:root {
+	@mixin light-root {
+		--text-color: #1f1f1f;
+	}
+
+	@mixin dark-root {
+		--text-color: #fff;
+	}
+
+	--primary-color: #fdb1aa;
+
+	--text-white: #fff;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}

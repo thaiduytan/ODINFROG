@@ -1,0 +1,8 @@
+.main {
+	background-color: #ecd4df;
+	width: 100%;
+	height: 100svh;
+	padding-top: 0;
+	padding-bottom: rem(30px);
+	overflow: hidden;
+}

@@ -1,7 +1,6 @@
 "use client"
 
 import {
-  AspectRatio,
   Box,
   Flex,
   Group,
@@ -335,8 +334,8 @@ export const Content: React.FC = () => {
                   pos="absolute"
                   top="86%"
                   left="31%"
-				  w="25%"
-				  h="42%"
+                  w="25%"
+                  h="42%"
                 >
                   <Image
                     src="/buydinnow.png"

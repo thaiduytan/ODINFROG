@@ -420,7 +420,7 @@ export const Content: React.FC = () => {
 									fz={{ base: 12, md: 16 }}
 									tt="uppercase"
 								>
-									CREATED BY @ODIN
+									CREATED BY @ODINFROG
 								</Text>
 							</Box>
 						</ScrollArea>

@@ -347,7 +347,7 @@ export const Content: React.FC = () => {
                     zIndex: 20,
                   }}
                   component={Link}
-                  href="/"
+                  href="https://x.com/ODINFROG"
                   pos="absolute"
                   right={"23%"}
                   top={"108%"}

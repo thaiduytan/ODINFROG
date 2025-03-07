@@ -63,18 +63,18 @@
 
 .frog {
 	position: fixed;
-	top: 43%;
+	top: 44%;
 	left: 50%;
 	z-index: 10;
 	transform: translate(-50%, -50%);
 	animation: moveUpDown 8s ease-in-out infinite;
 
 	@media (min-width: $mantine-breakpoint-xs) {
-		top: 53%;
+		top: 55%;
 		left: 45%;
 	}
 	@media (min-width: $mantine-breakpoint-md) {
-		top: 52%;
+		top: 60%;
 		left: 50%;
 	}
 }
